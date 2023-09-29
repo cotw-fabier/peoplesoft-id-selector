@@ -18,7 +18,7 @@ git clone https://github.com/YourUsername/input-id-highlighter.git
 ```
 
 2. Load the extension into Firefox:
-Go to about:debugging in Firefox.
-Click "This Firefox".
-Click "Load Temporary Add-on”.
-Navigate to the cloned repository and select the manifest.json file.
+- Go to about:debugging in Firefox.
+- Click "This Firefox".
+- Click "Load Temporary Add-on”.
+- Navigate to the cloned repository and select the manifest.json file.
